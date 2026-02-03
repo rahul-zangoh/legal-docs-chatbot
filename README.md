@@ -135,4 +135,4 @@ Create a `.env` file in the root directory with the following:
 
 ## 👨‍💻 Author
 
-Made with ❤️ by **Rahul Bamaniya**
+Made with ❤️ by **Rahul Bamaniya hh**
